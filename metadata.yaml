@@ -1,0 +1,40 @@
+_repo: The-Recruiting-Officer_37012
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farquhar, George
+    alias: Farquhar, G. (George)
+    deathdate: 1707
+    gutenberg_agent_id: '9863'
+    url: http://www.gutenberg.org/2009/agents/9863
+    wikipedia: http://en.wikipedia.org/wiki/George_Farquhar
+description: ''
+gutenberg_issued: '2011-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military towns -- Drama'
+- !lcsh 'Shrewsbury (England) -- Social life and customs -- 18th century -- Drama'
+- !lcsh 'English drama -- Restoration, 1660-1700'
+- !lcc 'PR'
+- !lcsh 'English drama (Comedy)'
+- !lcsh 'Recruiting and enlistment -- Drama'
+title: The Recruiting Officer
+url: http://www.gutenberg.org/ebooks/37012
