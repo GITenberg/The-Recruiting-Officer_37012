@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9863
     wikipedia: http://en.wikipedia.org/wiki/George_Farquhar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37012#The-Recruiting-Officer
 gutenberg_issued: '2011-08-08'
 gutenberg_type: Text
 identifiers:
